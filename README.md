@@ -3,7 +3,7 @@
 - 🏫 I'm an undergraduate in SYSU majoring in information and computing science (2018-2022).
 - 🌱 I'm interested in TTS, ASR, deep learning and SIMD.
 - ⚡ I'm studying in expressive tts, voice conversion and low computational cost speech synthesis.
-- 💬 Contact me by [email](xcmyz@outlook.com) or personal communication of [Zhihu](https://www.zhihu.com/people/xing-chen-man-you-zhe).
+- 💬 Contact me by [email](mailto:xcmyz@outlook.com) or personal communication of [Zhihu](https://www.zhihu.com/people/xing-chen-man-you-zhe).
 - 👀 I'm looking for internship.
 
 <!-- - 👯 I’m looking to collaborate on ...
