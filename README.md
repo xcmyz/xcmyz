@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏫 I'm an undergraduate in SYSU majoring in information and computing science (2018-2022).
-- 🌱 I'm interested in speech technology, deep learning and high performance computing.
+- 🌱 I'm interested in high performance neural vocoder, expressive TTS acoustic model and optimization of deep learning inference.
 - ⚡ I'm studying in efficient and high fidelity neural vocoder.
 - 💬 Contact me by [email](mailto:xcmyz@outlook.com).
 
