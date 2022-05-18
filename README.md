@@ -2,7 +2,7 @@
 
 - 🏫 I'm an undergraduate in SYSU majoring in information and computing science (2018-2022).
 - 🌱 I'm interested in high performance neural vocoder, expressive TTS and optimization of deep learning inference.
-- ⚡ I'm studying in efficient and high fidelity neural vocoder and expressive TTS.
+- ⚡ I'm studying in efficient neural vocoder and expressive TTS.
 - 💬 Contact me by [email](mailto:xcmyz@outlook.com).
 - 👨‍🎓 My Google scholar page is [here](https://scholar.google.com/citations?user=vqbQ1dQAAAAJ&hl=zh-CN).
 
