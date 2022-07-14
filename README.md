@@ -14,6 +14,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-<image src="https://github-readme-stats.vercel.app/api?username=xcmyz&show_icons=true" />
-<image src="https://github-readme-stats.vercel.app/api/top-langs?username=xcmyz&layout=compact&show_icons=true" />
